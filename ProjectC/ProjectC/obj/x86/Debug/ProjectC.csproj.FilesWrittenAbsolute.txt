@@ -1,0 +1,5 @@
+/Users/NurbolatMustafin/Documents/ProjectC/ProjectC/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/NurbolatMustafin/Documents/ProjectC/ProjectC/bin/Debug/ProjectC.exe.mdb
+/Users/NurbolatMustafin/Documents/ProjectC/ProjectC/bin/Debug/ProjectC.exe
+/Users/NurbolatMustafin/Documents/ProjectC/ProjectC/obj/x86/Debug/ProjectC.exe
+/Users/NurbolatMustafin/Documents/ProjectC/ProjectC/obj/x86/Debug/ProjectC.exe.mdb
